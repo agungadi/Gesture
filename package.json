@@ -1,0 +1,20 @@
+{
+  "name": "ronley-bingung-socketio",
+  "author": "Ian Mustafa <cuplizian@gmail.com>",
+  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmustafa/ronley-bingung-socketio.git"
+  },
+  "main": "app.js",
+  "scripts": {
+    "app": "node app.js"
+  },
+  "dependencies": {
+    "socket.io": "^2.3.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
